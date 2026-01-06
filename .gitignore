@@ -1,0 +1,25 @@
+# --- Frontend (Node.js/React) ---
+**/node_modules/
+**/dist/
+**/build/
+**/package-lock.json (Optional: some prefer to keep this)
+.env*
+frontend/.env
+
+# --- Backend (Python/Flask/FastAPI) ---
+**/__pycache__/
+*.py[cod]
+*$py.class
+**/.venv/
+**/venv/
+**/env/
+backend/.env
+backend/storage.db
+backend/checkpoints.sqlite
+
+# --- System & IDEs ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
