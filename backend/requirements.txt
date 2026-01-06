@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langgraph
+chromadb
+pydantic
+python-multipart
+ollama
+PyPDF2
+bcrypt
+python-jose
